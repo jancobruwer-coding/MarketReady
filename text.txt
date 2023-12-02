@@ -1,0 +1,23 @@
+        "House Analysis",
+        "Advertising",
+        "Buyer Management",
+        "Viewing Arrangements",
+        "Electrical Inspection",
+        "Infrastructure Analysis",
+        "Working Supervision",
+        "Departmental Communication",
+        "Improved Website Advertising",
+        "24/7 Security (If Vacant)",
+
+
+
+        "House Analysis",
+        "Advertising",
+        "Buyer Management",
+        "Viewing Arrangements",
+        "Electrical Inspection",
+        "Infrastructure Analysis",
+        "Working Supervision",
+        "Departmental Communication",
+        "-",
+        "-",
